@@ -4,7 +4,7 @@
 
 https://codesandbox.io/s/usestate-eyiqg
 
-## presentation:
+## presentation (use arrow keys to navigate):
 
 https://react-u.vercel.app
 
